@@ -5,8 +5,8 @@
  * Whatsapp : (509) 44676432
  * Telegram : (509) 44676432
  * Facebook : Jamsly-love MINE
- * Twitter : @jamsly_ib
- * Instagram : @jamsly_ib
+ * Twitter : @jamslylm
+ * Instagram : @jamslylm
  * */
 
 package jlesscode;
